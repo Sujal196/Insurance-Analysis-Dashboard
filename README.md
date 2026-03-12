@@ -77,7 +77,7 @@ These KPIs help executives quickly assess the **financial exposure and revenue g
 
 ### Dashboard Snapshot
 
-![Insurance Dashboard Overview](UPLOAD_DASHBOARD_IMAGE_LINK_HERE)
+![Insurance Dashboard Overview](https://github.com/user-attachments/assets/a181075c-4c10-4910-b84f-cc5f19a912d0)
 
 ---
 
