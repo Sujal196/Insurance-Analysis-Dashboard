@@ -176,9 +176,9 @@ Coverage data is segmented by claim status:
 
 This analysis enables stakeholders to evaluate **risk exposure across insurance products**.
 
-![Coverage Table](UPLOAD_COVERAGE_TABLE_IMAGE)
+![Coverage Table](https://github.com/user-attachments/assets/c46b6a77-d348-408e-a706-4470ba08a5f7)
 
-## Interactivity and Filters
+## Filters
 
 The dashboard includes several interactive elements that allow users to dynamically explore the data:
 
@@ -188,32 +188,21 @@ The dashboard includes several interactive elements that allow users to dynamica
 * Claim Number
 * Customer ID
 
-### Interactive Features
-
-* Cross-filtering across visuals
-* Hover tooltips for detailed insights
-* Dynamic filtering of metrics
-* Drill-down capabilities in charts
-
-These features improve the **usability and analytical depth** of the dashboard.
-
----
-
 ## Key Business Insights
 
 The dashboard reveals several important insights:
 
-* Travel insurance generates the **highest premium revenue** among all policy types.
-* The **total coverage amount significantly exceeds claim amounts**, indicating manageable risk exposure.
-* Adult customers contribute the **largest share of claims**.
-* A considerable number of claims remain **pending**, suggesting potential processing delays.
-* Policy activation rates remain strong, with **over half of policies currently active**.
+* Travel insurance generates the highest premium revenue among all policy types.
+* The total coverage amount significantly exceeds claim amounts, indicating manageable risk exposure.
+* Adult customers contribute the largest share of claims.
+* A considerable number of claims remain pending, suggesting potential processing delays.
+* Policy activation rates remain strong, with over half of policies currently active.
 
-These insights help insurers **optimize pricing, improve claims management, and design targeted insurance products**.
+These insights help insurers optimize pricing, improve claims management, and design targeted insurance products.
 
 ## Conclusion
 
-The **Insurance Analytics Power BI Dashboard** provides a powerful analytical platform for monitoring insurance operations and financial performance.
+The **Insurance Data Analysis Power BI Dashboard** provides a powerful analytical platform for monitoring insurance operations and financial performance.
 
 By integrating premium data, coverage values, claim analysis, and policy status tracking, the dashboard enables stakeholders to:
 
