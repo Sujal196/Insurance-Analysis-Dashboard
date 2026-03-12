@@ -79,9 +79,7 @@ These KPIs help executives quickly assess the **financial exposure and revenue g
 
 ![Insurance Dashboard Overview](https://github.com/user-attachments/assets/a181075c-4c10-4910-b84f-cc5f19a912d0)
 
----
-
-# Gender Distribution of Customers
+## Gender Distribution of Customers
 
 The dashboard highlights the gender distribution of insured customers.
 
@@ -92,9 +90,7 @@ This visualization helps understand the demographic composition of policyholders
 
 ![Gender Distribution](UPLOAD_GENDER_VISUAL_LINK)
 
----
-
-# Active vs Inactive Policies
+## Active vs Inactive Policies
 
 A **donut chart** visualizes the proportion of active and inactive policies.
 
@@ -105,9 +101,7 @@ This metric helps organizations monitor **policy retention rates** and identify 
 
 ![Active Inactive Policies](UPLOAD_POLICY_STATUS_IMAGE)
 
----
-
-# Claim Amount by Age Group
+## Claim Amount by Age Group
 
 A **line chart** analyzes claim patterns across different customer age groups.
 
@@ -127,9 +121,7 @@ This insight supports **risk assessment and premium pricing strategies**.
 
 ![Claim Amount by Age Group](UPLOAD_AGE_GROUP_CHART)
 
----
-
-# Claim Number by Claim Status
+## Claim Number by Claim Status
 
 This section analyzes the number of claims based on their processing status:
 
@@ -141,9 +133,7 @@ Understanding claim outcomes helps insurance companies improve **claims manageme
 
 ![Claim Status Chart](UPLOAD_CLAIM_STATUS_IMAGE)
 
----
-
-# Premium Amount by Policy Type
+## Premium Amount by Policy Type
 
 A horizontal bar chart displays premium revenue generated from different policy types.
 
@@ -165,9 +155,8 @@ This analysis helps the business identify **high-demand insurance products**.
 
 ![Premium by Policy Type](UPLOAD_POLICY_PREMIUM_CHART)
 
----
 
-# Coverage Amount by Policy Type
+## Coverage Amount by Policy Type
 
 A **matrix table visualization** compares coverage value across policy types and claim outcomes.
 
@@ -189,9 +178,7 @@ This analysis enables stakeholders to evaluate **risk exposure across insurance 
 
 ![Coverage Table](UPLOAD_COVERAGE_TABLE_IMAGE)
 
----
-
-# Interactivity and Filters
+## Interactivity and Filters
 
 The dashboard includes several interactive elements that allow users to dynamically explore the data:
 
@@ -212,7 +199,7 @@ These features improve the **usability and analytical depth** of the dashboard.
 
 ---
 
-# Key Business Insights
+## Key Business Insights
 
 The dashboard reveals several important insights:
 
@@ -224,9 +211,7 @@ The dashboard reveals several important insights:
 
 These insights help insurers **optimize pricing, improve claims management, and design targeted insurance products**.
 
----
-
-# Conclusion
+## Conclusion
 
 The **Insurance Analytics Power BI Dashboard** provides a powerful analytical platform for monitoring insurance operations and financial performance.
 
@@ -238,7 +223,3 @@ By integrating premium data, coverage values, claim analysis, and policy status 
 * Strengthen **claims processing efficiency**
 
 Overall, this dashboard supports **data-driven decision making and operational transparency**, making it a valuable tool for insurance business intelligence.
-
----
-
-If you want, I can also help you create a **GitHub-ready README.md portfolio version of this report (used by Data Analysts for portfolio projects)** — it looks much more professional and can help in **placements or internships**.
