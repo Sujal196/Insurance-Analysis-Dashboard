@@ -88,7 +88,7 @@ The dashboard highlights the gender distribution of insured customers.
 
 This visualization helps understand the demographic composition of policyholders and supports targeted marketing strategies.
 
-![Gender Distribution](UPLOAD_GENDER_VISUAL_LINK)
+![Gender Distribution](https://github.com/user-attachments/assets/976fde81-64a1-48c8-9481-3be4437c1280)
 
 ## Active vs Inactive Policies
 
