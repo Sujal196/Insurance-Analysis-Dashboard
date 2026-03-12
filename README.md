@@ -77,7 +77,7 @@ These KPIs help executives quickly assess the **financial exposure and revenue g
 
 ### Dashboard Snapshot
 
-![Insurance Dashboard Overview](https://github.com/user-attachments/assets/a181075c-4c10-4910-b84f-cc5f19a912d0)
+![Insurance Dashboard Overview](https://github.com/user-attachments/assets/a5b84765-14f6-417a-a65d-710ceb1a709b)
 
 ## Gender Distribution of Customers
 
@@ -88,7 +88,7 @@ The dashboard highlights the gender distribution of insured customers.
 
 This visualization helps understand the demographic composition of policyholders and supports targeted marketing strategies.
 
-![Gender Distribution](https://github.com/user-attachments/assets/976fde81-64a1-48c8-9481-3be4437c1280)
+![Gender Distribution](https://github.com/user-attachments/assets/79ed954c-1224-486d-97d6-6668692da16b)
 
 ## Active vs Inactive Policies
 
@@ -99,7 +99,7 @@ A **donut chart** visualizes the proportion of active and inactive policies.
 
 This metric helps organizations monitor **policy retention rates** and identify potential churn.
 
-![Active Inactive Policies](UPLOAD_POLICY_STATUS_IMAGE)
+![Active Inactive Policies](https://github.com/user-attachments/assets/b15e66e8-ae97-4fed-8ebb-4783bf4c571f)
 
 ## Claim Amount by Age Group
 
@@ -119,7 +119,7 @@ Key observations:
 
 This insight supports **risk assessment and premium pricing strategies**.
 
-![Claim Amount by Age Group](UPLOAD_AGE_GROUP_CHART)
+![Claim Amount by Age Group](https://github.com/user-attachments/assets/8f6aa077-f093-486e-a53e-3819933ca45a)
 
 ## Claim Number by Claim Status
 
@@ -131,7 +131,7 @@ This section analyzes the number of claims based on their processing status:
 
 Understanding claim outcomes helps insurance companies improve **claims management efficiency** and detect operational bottlenecks.
 
-![Claim Status Chart](UPLOAD_CLAIM_STATUS_IMAGE)
+![Claim Status Chart](https://github.com/user-attachments/assets/7540b314-471c-4b77-bf04-82dbc1c56148)
 
 ## Premium Amount by Policy Type
 
@@ -153,7 +153,7 @@ Key findings:
 
 This analysis helps the business identify **high-demand insurance products**.
 
-![Premium by Policy Type](UPLOAD_POLICY_PREMIUM_CHART)
+![Premium by Policy Type](https://github.com/user-attachments/assets/2337d174-e759-4ddf-ae95-978e0d2c7791)
 
 
 ## Coverage Amount by Policy Type
