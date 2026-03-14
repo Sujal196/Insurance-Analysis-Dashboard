@@ -35,8 +35,8 @@ The data was imported into **Power BI Desktop**, transformed using **Power Query
 ### Data Preparation
 
 * Step 1 : Imported insurance dataset into **Power BI Desktop**.
-* Step 2 : Opened **Power Query Editor** and enabled **Column Quality, Column Distribution, and Column Profile** for data validation.
-* Step 3 : Enabled **column profiling for entire dataset** instead of the default 1000 rows.
+* Step 2 : Opened **Power Query Editor** and enabled column quality, column distribution and column profile** for data validation.
+* Step 3 : Enabled column profiling for entire dataset instead of the default 1000 rows.
 * Step 4 : Validated and corrected data types for numerical fields such as Premium Amount, Coverage Amount, and Claim Amount.
 * Step 5 : Handled missing values and removed duplicate records where applicable.
 
