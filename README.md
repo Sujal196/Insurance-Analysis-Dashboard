@@ -5,11 +5,11 @@
 
 ## Problem Statement
 
-This dashboard provides a comprehensive analytical overview of insurance operations by monitoring critical business metrics such as premium revenue, coverage value, claim amount, and policy activity. The objective is to transform raw insurance data into actionable business intelligence through interactive visualizations and KPI-driven reporting.
+This dashboard provides a comprehensive analytical overview of insurance operations by monitoring critical business metrics such as premium revenue, coverage value, claim amount and policy activity. The objective is to transform raw insurance data into actionable business intelligence through interactive visualizations and KPI-driven reporting.
 
-The dashboard enables stakeholders to evaluate policy performance, claim processing efficiency, and customer segmentation. By analyzing policy types, claim status, and demographic distributions, the organization can identify revenue-generating insurance products, operational inefficiencies, and risk exposure patterns.
+The dashboard enables stakeholders to evaluate policy performance, claim processing efficiency and customer segmentation. By analyzing policy types, claim status and demographic distributions, the organization can identify revenue-generating insurance products, operational inefficiencies and risk exposure patterns.
 
-Through dynamic filtering and visual analytics, the report supports data-driven strategic decision-making, operational monitoring, and performance optimization within the insurance domain.
+Through dynamic filtering and visual analytics, the report supports data-driven strategic decision-making, operational monitoring and performance optimization within the insurance domain.
 
 ## Dataset Overview
 
@@ -28,7 +28,7 @@ The dataset used for this dashboard contains structured insurance policy and cla
 * Gender
 * Policy Issue Date
 
-The data was imported into **Power BI Desktop**, transformed using **Power Query**, and modeled for analysis and visualization.
+The data was imported into **Power BI Desktop**, transformed using **Power Query** and modeled for analysis and visualization.
 
 ## Steps Followed
 
@@ -73,7 +73,7 @@ The dashboard presents several key metrics at the top level to provide an execut
 * **Claim Amount (16.91M)**
   Shows the total claims filed by policyholders.
 
-These KPIs help executives quickly assess the **financial exposure and revenue generation** of the insurance business.
+These KPIs help executives quickly assess the financial exposure and revenue generation of the insurance business.
 
 ### Dashboard Snapshot
 
@@ -97,7 +97,7 @@ A **donut chart** visualizes the proportion of active and inactive policies.
 * **Active Policies:** 5.45K (54.4%)
 * **Inactive Policies:** 4.56K (45.6%)
 
-This metric helps organizations monitor **policy retention rates** and identify potential churn.
+This metric helps organizations monitor policy retention rates and identify potential churn.
 
 ![Active Inactive Policies](https://github.com/user-attachments/assets/b15e66e8-ae97-4fed-8ebb-4783bf4c571f)
 
@@ -117,7 +117,7 @@ Key observations:
 * Elderly customers show moderate claim activity.
 * Younger customers generate comparatively lower claim values.
 
-This insight supports **risk assessment and premium pricing strategies**.
+This insight supports risk assessment and premium pricing strategies.
 
 ![Claim Amount by Age Group](https://github.com/user-attachments/assets/8f6aa077-f093-486e-a53e-3819933ca45a)
 
@@ -129,7 +129,7 @@ This section analyzes the number of claims based on their processing status:
 * **Settled Claims:** 3.39K
 * **Pending Claims:** 2.26K
 
-Understanding claim outcomes helps insurance companies improve **claims management efficiency** and detect operational bottlenecks.
+Understanding claim outcomes helps insurance companies improve claims management efficiency and detect operational bottlenecks.
 
 ![Claim Status Chart](https://github.com/user-attachments/assets/7540b314-471c-4b77-bf04-82dbc1c56148)
 
@@ -151,7 +151,7 @@ Key findings:
 * **Health Insurance** is the second largest contributor.
 * **Home Insurance** contributes the lowest premium volume.
 
-This analysis helps the business identify **high-demand insurance products**.
+This analysis helps the business identify high-demand insurance products.
 
 ![Premium by Policy Type](https://github.com/user-attachments/assets/2337d174-e759-4ddf-ae95-978e0d2c7791)
 
@@ -174,7 +174,7 @@ Coverage data is segmented by claim status:
 * Rejected
 * Settled
 
-This analysis enables stakeholders to evaluate **risk exposure across insurance products**.
+This analysis enables stakeholders to evaluate risk exposure across insurance products.
 
 ![Coverage Table](https://github.com/user-attachments/assets/c46b6a77-d348-408e-a706-4470ba08a5f7)
 
@@ -198,17 +198,17 @@ The dashboard reveals several important insights:
 * A considerable number of claims remain pending, suggesting potential processing delays.
 * Policy activation rates remain strong, with over half of policies currently active.
 
-These insights help insurers optimize pricing, improve claims management, and design targeted insurance products.
+These insights help insurers optimize pricing, improve claims management and design targeted insurance products.
 
 ## Conclusion
 
 The **Insurance Data Analysis Power BI Dashboard** provides a powerful analytical platform for monitoring insurance operations and financial performance.
 
-By integrating premium data, coverage values, claim analysis, and policy status tracking, the dashboard enables stakeholders to:
+By integrating premium data, coverage values, claim analysis and policy status tracking, the dashboard enables stakeholders to:
 
-* Improve **risk management**
-* Optimize **product strategy**
-* Enhance **customer insights**
-* Strengthen **claims processing efficiency**
+* Improve risk management
+* Optimize product strategy
+* Enhance customer insights
+* Strengthen claims processing efficiency
 
-Overall, this dashboard supports **data-driven decision making and operational transparency**, making it a valuable tool for insurance business intelligence.
+Overall, this dashboard supports data-driven decision making and operational transparency, making it a valuable tool for insurance business intelligence.
